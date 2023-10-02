@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Akshay Bhandari</h1>
 <h3 align="center">In lines of code, I find my therapy. In algorithms, I discover my strength.</h3>
 <h3 align="left">About Me:</h3>
-<h4>
+<p>
 <li>🧑‍🎓 Sophomore, pursuing BTech in Information Technology at Vellore Institute of Technology.</li>
 <li>🎮 An avid gamer.</li>
 <li>💻 Full Stack Developer</li>
@@ -10,7 +10,7 @@
 <li>📊 Data Science Aficionado</li>
 <li>‍💻 Competitive Programmer</li>
 <li>🖋️ English,हिन्दी,Français,Español</li>
-</h4>
+</p>
 <h3 align="left">Connect with me:</h3>
 <h4>
 <a href="www.linkedin.com/in/akshayyyy"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
