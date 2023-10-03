@@ -1,5 +1,5 @@
 # Hi, I'm Akshay Bhandari
-## In lines of code, I find my therapy. In algorithms, I discover my strength.
+<h3 align="center">In lines of code, I find my therapy. In algorithms, I discover my strength.</h3>
 <h3 align="left">About Me:</h3>
 <p>
 <li>🧑‍🎓 Sophomore, pursuing BTech in Information Technology at Vellore Institute of Technology.</li>
