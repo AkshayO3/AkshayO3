@@ -8,7 +8,7 @@
 <li>💵 Web3 & Crypto Enthusiast</li>
 <li>☁️ Proficient in Cloud Computing</li>
 <li>📊 Data Science Aficionado</li>
-<li>‍💻 Competitive Programmer</li>
+<li>⚠️Competitive Programmer</li>
 <li>🖋️ English,हिन्दी,Français,Español</li>
  </p>
 <h3 align="left">Connect with me:</h3>
