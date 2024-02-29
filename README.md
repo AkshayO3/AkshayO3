@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Akshay Bhandari</h1>
-<h4 align="center">Most people don’t even know what sysadmins do, but trust me, if they all took a lunch break at the same time they wouldn’t make it to the deli before you ran out of bullets protecting your canned goods from roving bands of mutants.</h4>
+<h4 align="center">Vast chains of abstract conditions and requirements have to be picked through to discover things like missing commas. Doing this all day leaves you in a state of mild aphasia as you look at people’s faces while they’re speaking and you don’t know they’ve finished because there’s no semicolon.</h4>
 <h3 align="left">About Me:</h3>
 <p>
 <li>🧑‍🎓 Sophomore, pursuing BTech in Information Technology at Vellore Institute of Technology.</li>
