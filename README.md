@@ -13,4 +13,10 @@
  </p>
 <h3 align="left">Connect with me:</h3>
  <p>Reach me via <a href="https://www.linkedin.com/in/akshayyyy">LinkedIn</a></p>
-[![Languages and Tools](https://skillicons.dev/icons?i=aws,azure,bash,django,docker,express,gcp,git,java,js,jquery,linux,mongodb,nginx,nodejs,postgres,postman,py,react,rust,solidity,selenium,sklearn,svelte&perline=12)](https://skillicons.dev)
+
+<h3>Languages and Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,bash,django,docker,express,gcp,git,java,js,jquery,linux,mongodb,nginx,nodejs,postgres,postman,py,react,rust,solidity,selenium,sklearn,svelte&perline=12" />
+  </a>
+</p>
