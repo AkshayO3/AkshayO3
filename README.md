@@ -2,7 +2,7 @@
 <h4 align="center">Vast chains of abstract conditions and requirements have to be picked through to discover things like missing commas. Doing this all day leaves you in a state of mild aphasia as you look at people’s faces while they’re speaking and you don’t know they’ve finished because there’s no semicolon.</h4>
 <h3 align="left">About Me:</h3>
 <p>
-<li>🧑‍🎓 Junior, pursuing BTech in Information Technology at Vellore Institute of Technology.</li>
+<li>🧑‍🎓 Senior, pursuing BTech in Information Technology at Vellore Institute of Technology.</li>
 <li>🎮 An avid gamer.</li>
 <li>💻 Full Stack Developer</li>
 <li>💵 Web3 & Crypto Enthusiast</li>
